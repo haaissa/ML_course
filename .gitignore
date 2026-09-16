@@ -91,6 +91,9 @@ ENV/
 # Mac folder attributes
 .DS_Store
 
+# env
+.venv/
+
 # Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
